@@ -1,0 +1,10 @@
+org: fkolms
+app: latexrecords-v2
+name: react-starter
+component: website
+
+inputs:
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./dist
